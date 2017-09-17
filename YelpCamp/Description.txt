@@ -1,0 +1,9 @@
+This is the project on the fully functioning website called YelpCamp.
+
+This was developed on the cloud9 server.
+
+Express, NodeJs and mongodb were used in the backend
+
+Embedded Javascript was also used.
+
+Hope you like it!
