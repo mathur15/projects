@@ -1,0 +1,1 @@
+This folder contains verilog code for the labs currently being completed in the course CSC258.
