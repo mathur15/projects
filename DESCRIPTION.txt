@@ -5,3 +5,6 @@ Web development -
 TODO project
 Patatap project
 CSC309 codealong
+YelpCamp
+ImageGallarySolution
+Tictactoe.html
