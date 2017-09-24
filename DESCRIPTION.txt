@@ -1,0 +1,7 @@
+The following project contains all my web development project, Java, C and python programming.
+
+Web development - 
+
+TODO project
+Patatap project
+CSC309 codealong
