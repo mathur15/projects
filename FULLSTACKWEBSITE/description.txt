@@ -1,1 +1,2 @@
 My folders to implement my full stack website about campgrounds
+The main file is app.js
